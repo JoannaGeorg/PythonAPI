@@ -8,5 +8,5 @@ To Do:
 - [x] OpenAI Overview
 - [x] How GPT works
 - [x] OpenAI Account Setup
-- [ ] Text Completion API – Parameter Overview
-- [ ] OpenAI API Call & Request Handling
+- [x] Text Completion API – Parameter Overview
+- [x] OpenAI API Call & Request Handling
