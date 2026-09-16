@@ -14,9 +14,9 @@ To Do:
 ### Task 2: Practical Integration
 
 To Do:
-- [ ] Create a reusable API function
-- [ ] Accept user input
-- [ ] Send input to the model
-- [ ] Process the response
+- [x] Create a reusable API function
+- [x] Accept user input
+- [x] Send input to the model
+- [x] Process the response
 - [ ] Handle API errors
 - [ ] Keep API keys secure using environment variables
