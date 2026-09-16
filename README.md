@@ -10,3 +10,13 @@ To Do:
 - [x] OpenAI Account Setup
 - [x] Text Completion API – Parameter Overview
 - [x] OpenAI API Call & Request Handling
+
+### Task 2: Practical Integration
+
+To Do:
+- [ ] Create a reusable API function
+- [ ] Accept user input
+- [ ] Send input to the model
+- [ ] Process the response
+- [ ] Handle API errors
+- [ ] Keep API keys secure using environment variables
