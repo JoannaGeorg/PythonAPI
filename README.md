@@ -18,5 +18,5 @@ To Do:
 - [x] Accept user input
 - [x] Send input to the model
 - [x] Process the response
-- [ ] Handle API errors
-- [ ] Keep API keys secure using environment variables
+- [x] Handle API errors
+- [x] Keep API keys secure using environment variables
